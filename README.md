@@ -1,7 +1,6 @@
 ## Demo
 
-[▶️ Watch the demo video](Demo/Video.mp4)
-
+[![Watch the demo](https://img.youtube.com/vi/QbMcKwJGuD4/0.jpg)](https://youtu.be/QbMcKwJGuD4)
 
 # Personal Finance App
 
