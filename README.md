@@ -1,10 +1,6 @@
 ## Demo
 
-<video width="640" controls>
-  <source src="demo/video.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
+[![Watch the demo](https://img.youtube.com/vi/QbMcKwJGuD4/0.jpg)](https://youtu.be/QbMcKwJGuD4)
 
 # Personal Finance App
 
