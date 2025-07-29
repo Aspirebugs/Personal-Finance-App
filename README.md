@@ -1,7 +1,7 @@
 ## Demo
 
 <video width="640" controls>
-  <source src="demo/video.mp4" type="video/mp4">
+  <source src="Demo/Video.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
